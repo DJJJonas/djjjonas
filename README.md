@@ -19,6 +19,8 @@
   ♫
 </p>
 
+> If you liked my profile, please follow me 🐼 this will help me keep motivated to code
+
 <img src="https://img.shields.io/badge/Projects-f0f0f0?style=for-the-badge" width="164">
 
 - [Portfolio](https://djjjonas.github.io/) - My Github page with more informations about me
@@ -32,8 +34,6 @@
 <img src="https://img.shields.io/badge/what_i'm_Doing-232627?style=for-the-badge" width="164">
 
 | Working on my next project: [Heartbun](https://github.com/DJJJonas/heartbun) |
-| --- |
-
-> Please follow me to stay tuned on my projects 🐼
+| ---------------------------------------------------------------------------- |
 
 ![github readme image](https://github.com/DJJJonas/djjjonas/assets/48167880/46a18a24-4747-486a-8c1f-303a5dc9a27e)
