@@ -31,7 +31,9 @@
 
 <img src="https://img.shields.io/badge/what_i'm_Doing-232627?style=for-the-badge" width="164">
 
-| Working on [Heartbun](https://github.com/DJJJonas/heartbun) |
+| Working on my next project: [Heartbun](https://github.com/DJJJonas/heartbun) |
 | --- |
+
+> Please follow me to stay tuned on my projects 🐼
 
 ![github readme image](https://github.com/DJJJonas/djjjonas/assets/48167880/46a18a24-4747-486a-8c1f-303a5dc9a27e)
