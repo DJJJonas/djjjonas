@@ -2,7 +2,7 @@
   <br>
   <img src="https://avatars.githubusercontent.com/u/48167880?v=4" width="200">
   <br>
-  <img src="https://img.shields.io/badge/💀_Welcome_💀-232627?style=for-the-badge" width="200">
+  <img src="https://img.shields.io/badge/Jonas_de_Melo-232627?style=for-the-badge" width="200">
   <br>
 </h1>
 
