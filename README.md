@@ -26,7 +26,4 @@
 <img src="https://img.shields.io/badge/Skills-232627?style=for-the-badge" width="164">
 <img src="https://skillicons.dev/icons?i=git,docker,java,spring,angular,bash,bun,html,css,js,ts,jquery,linux,nestjs,nextjs,nodejs,postgres,vscode&perline=6" />
 
-| Working on my next project: [Heartbun](https://github.com/DJJJonas/heartbun) |
-| ---------------------------------------------------------------------------- |
-
 ![github readme image](https://github.com/DJJJonas/djjjonas/assets/48167880/46a18a24-4747-486a-8c1f-303a5dc9a27e)
